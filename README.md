@@ -1,8 +1,9 @@
-## Hi, I'm UnCarry
+## Merhaba, ben Bekir
 
-I'm a junior web developer focused on modern, clean, and functional web interfaces.
-I enjoy building frontend-heavy projects and improving my skills step by step.
+Modern, temiz ve fonksiyonel web arayüzlerine odaklanan genç bir web geliştiricisiyim.
 
-- **Currently working on:** carry browser 
-- **Learning:** php, JavaScript, Next.js, React, UI/UX basics
-- **Interested in:** frontend development, dark-themed designs
+Ön uç ağırlıklı projeler geliştirmekten ve becerilerimi adım adım iyileştirmekten keyif alıyorum.
+
+- **Şu anda üzerinde çalıştığım proje:** Carry tarayıcısı
+- **Öğrendiklerim:** PHP, JavaScript, Next.js, React, UI/UX temelleri
+- **İlgilendiğim alanlar:** Ön uç geliştirme, koyu temalı tasarımlar
